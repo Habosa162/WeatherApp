@@ -23,7 +23,7 @@ let {setCountry}= useContext(CountryContext) ;
                             <Link className="nav-link active" aria-current="page" to="weather">Weather</Link>
                         </li>  
                         <li className="nav-item">
-                            <Link className="nav-link active" aria-current="page" to="sports">Sports</Link>
+                            <Link className="nav-link active" aria-current="page" to="sports">Football</Link>
                         </li>  
                     </ul>
 
