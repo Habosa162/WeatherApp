@@ -3,7 +3,7 @@ import Layout from './Components/Layout/Layout';
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css"
 import "../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
 import "../node_modules/font-awesome/css/font-awesome.css"
-import React, { Component }  from 'react';
+import React from 'react';
 
 import {createBrowserRouter,RouterProvider} from 'react-router-dom';
 import Home from "./Components/Home/Home";

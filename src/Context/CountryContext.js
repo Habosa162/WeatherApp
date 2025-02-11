@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import {createContext,Context}from 'react'
+import {createContext}from 'react'
 
 export let CountryContext = createContext();
 
